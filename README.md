@@ -1,0 +1,1 @@
+This does not function properly on KDE Plasma. It opens all files in firefox and not in the prefered application.
