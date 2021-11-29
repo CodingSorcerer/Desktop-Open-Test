@@ -1,1 +1,1 @@
-This does not function properly on KDE Plasma. It opens all files in firefox and not in the prefered application.
+This program tests the open function on a resource jpg.
